@@ -30,3 +30,5 @@ Yolov5 모델 학습에 사용한 데이터들은 조원들이 직접 수집한 
 데이터 라벨링은 roboflow(https://roboflow.com/) 에서 작업 하였습니다.
 
 Yolov5 모델은 Google colab(https://colab.research.google.com/?hl=ko) 에서 학습 진행하였습니다. 
+
+개발은 Android Studio, Java로 진행되었습니다.
