@@ -27,6 +27,8 @@ Hear Eat은 Yolov5 모델 기반으로 만들어진 시각장애인용 편의점
 
 Yolov5 모델 학습에 사용한 데이터들은 조원들이 직접 수집한 데이터와 서울시 공공 데이터포털의 '서울시 상품 표지 이미지 AI 학습 데이터셋'을 사용했습니다.
 
+Yolov5 (https://github.com/ultralytics/yolov5)
+
 데이터 라벨링은 roboflow(https://roboflow.com/) 에서 작업 하였습니다.
 
 Yolov5 모델은 Google colab(https://colab.research.google.com/?hl=ko) 에서 학습 진행하였습니다. 
